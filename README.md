@@ -210,10 +210,10 @@ $password = '';
 
 ## Screnshoot Aplikasi SPP
 Tampilan Halaman Login  
-![Halaman Login](image/login.jpg)
+![Halaman Login](image/login.png)
 
 Tampilan Dashboard Admin  
-![Dashboard Admin](image/admin.jpg)
+![Dashboard Admin](image/admin.png)
 
 Tampilan Dashboard Siswa  
-![Dashboard Siswa](image/siswa.jpg)
+![Dashboard Siswa](image/siswa.png)
